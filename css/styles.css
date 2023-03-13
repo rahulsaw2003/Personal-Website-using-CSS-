@@ -48,7 +48,7 @@ p {
     width: 100px;
 }
 .contact-message {
-    width: 35%;
+    width: 50%;
     margin: 40px auto;
 }
 .heading {
@@ -61,7 +61,7 @@ p {
 }
 
 .profile {
-	width: 35%;
+	width: 50%;
 	margin: 60px auto;
 	line-height: 2;
 }
@@ -93,22 +93,23 @@ p {
 }
 .top-cloud {
 	position: absolute;
-	top: 50px;
-	right: 280px;
+	top: 12%;
+	right: 15%;
 }
 .bottom-cloud {
 	position: absolute;
-	top: 330px;
-	left: 250px;
+	top: 45%;
+	left: 13%;
 }
 .copyright {
-	font-size: 0.75rem;
+	font-size: 60%;
     color: #EAF6F6;
     padding: 10px 0px;
 }
 .footer-link {
     color: #11999E;
     text-decoration-line: none;
+	font-size: 115%;
 }
 .pro {
 	text-decoration: underline;
